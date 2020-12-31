@@ -469,8 +469,6 @@
 
 - [基于冷门协议sctp反弹shell](https://mp.weixin.qq.com/s/E1klj8opnzbuoEVweBjHjg)
 
-## 内网渗透
-
 - [域控制器后门：万能钥匙](https://www.hackingarticles.in/domain-controller-backdoor-skeleton-key/)
 
 - [Kerberos蛮力攻击](https://www.hackingarticles.in/kerberos-brute-force-attack/)
